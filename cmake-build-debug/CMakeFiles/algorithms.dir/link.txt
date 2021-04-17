@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/algorithms.dir/kruskal.cpp.o CMakeFiles/algorithms.dir/prim.cpp.o CMakeFiles/algorithms.dir/primMinHeap.cpp.o CMakeFiles/algorithms.dir/icbus.cpp.o CMakeFiles/algorithms.dir/dijkstra.cpp.o CMakeFiles/algorithms.dir/topological.cpp.o CMakeFiles/algorithms.dir/boggle1.cpp.o -o algorithms 
